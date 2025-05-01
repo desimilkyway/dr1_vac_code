@@ -1,4 +1,4 @@
-This is a repo with some codes relevant for the DESI MWS DR1.
+This is a repo with some codes relevant for the DESI MWS DR1 VAC.
 
 
 The feh_correct.py applies the corrections determined in the Koposov+2025 paper.
